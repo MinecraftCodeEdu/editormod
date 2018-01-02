@@ -1,0 +1,27 @@
+
+1/1(화) ~ 1/7(일)
+기본 텍스트
+-gui 창(에디터그림넣기)
+-text field
+-key binding
+-textbutton(run)
+-Open Command(Slash key) 와 통신 [util - Chat Component Text , Command - kill, time 소스 활용]
+
+gui in game(Gui overlay)
+
+
+
+1/8(월) ~ 1/14(일)
+ Jedit 구조 코드분석 어떻게 넣을지 구상.
+
+
+1/15(월) ~ 1/21(일)
+필수기능 첨가
+Syntax-highlight
+Auto-complete
+Auto Indent, brace matching
+파일저장, 불러오기
+
+
+1/22(월) ~ 1/27(토)
+디자인 수정, 다듬기 및 테스트
